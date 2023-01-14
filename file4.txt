@@ -1,1 +1,1 @@
-Adding first commit in firstOtherBranch
+Adding first commit in firstOtherBranch , something to be merged 
